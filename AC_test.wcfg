@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/Xilinx/Project/MyCPU/AC_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="ac_test" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/ac_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nio" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nio</obj_property>
+      <obj_property name="ObjectShortName">nio</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nmem" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nmem</obj_property>
+      <obj_property name="ObjectShortName">nmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/rd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rd</obj_property>
+      <obj_property name="ObjectShortName">rd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/wr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wr</obj_property>
+      <obj_property name="ObjectShortName">wr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/rdir" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rdir</obj_property>
+      <obj_property name="ObjectShortName">rdir</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/pc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/aluout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">aluout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/dbus" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dbus[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dbus[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/iodb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">iodb[7:0]</obj_property>
+      <obj_property name="ObjectShortName">iodb[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nble" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nble</obj_property>
+      <obj_property name="ObjectShortName">nble</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nbhe" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nbhe</obj_property>
+      <obj_property name="ObjectShortName">nbhe</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/abus" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">abus[15:0]</obj_property>
+      <obj_property name="ObjectShortName">abus[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nrd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nrd</obj_property>
+      <obj_property name="ObjectShortName">nrd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nwr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nwr</obj_property>
+      <obj_property name="ObjectShortName">nwr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nmreq" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nmreq</obj_property>
+      <obj_property name="ObjectShortName">nmreq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/ioad" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ioad[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ioad[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/nprd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">nprd</obj_property>
+      <obj_property name="ObjectShortName">nprd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/npwr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">npwr</obj_property>
+      <obj_property name="ObjectShortName">npwr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/npreq" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">npreq</obj_property>
+      <obj_property name="ObjectShortName">npreq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/ir" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ir[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ir[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/rtemp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rtemp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rtemp[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ac_test/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>

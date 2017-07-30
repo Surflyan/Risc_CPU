@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/Xilinx/Project/MyCPU/IF_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="if_test" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/if_test/t0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">t0</obj_property>
+      <obj_property name="ObjectShortName">t0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/if_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/if_test/newpc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">newpc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">newpc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/if_test/datair" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">datair[15:0]</obj_property>
+      <obj_property name="ObjectShortName">datair[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/if_test/outpc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">outpc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">outpc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/if_test/readir" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">readir</obj_property>
+      <obj_property name="ObjectShortName">readir</obj_property>
+   </wvobject>
+   <wvobject fp_name="/if_test/outir" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">outir[15:0]</obj_property>
+      <obj_property name="ObjectShortName">outir[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/if_test/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>

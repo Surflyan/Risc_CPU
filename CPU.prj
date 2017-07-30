@@ -1,0 +1,6 @@
+vhdl work "WBcom.vhd"
+vhdl work "MEMcom.vhd"
+vhdl work "IFcom.vhd"
+vhdl work "Calcom.vhd"
+vhdl work "ACcom.vhd"
+vhdl work "CPU.vhd"

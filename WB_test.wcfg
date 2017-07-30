@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/Xilinx/Project/MyCPU/WB_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="wb_test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/wb_test/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/rtemp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rtemp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rtemp[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/pc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/aluout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluout[7:0]</obj_property>
+      <obj_property name="ObjectShortName">aluout[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/t3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">t3</obj_property>
+      <obj_property name="ObjectShortName">t3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op[15:11]</obj_property>
+      <obj_property name="ObjectShortName">op[15:11]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/ad1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ad1[10:8]</obj_property>
+      <obj_property name="ObjectShortName">ad1[10:8]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/raddr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">raddr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">raddr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/rdata" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rdata[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rdata[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/rupdate" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rupdate</obj_property>
+      <obj_property name="ObjectShortName">rupdate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/pcnew" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pcnew[15:0]</obj_property>
+      <obj_property name="ObjectShortName">pcnew[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/wb_test/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>

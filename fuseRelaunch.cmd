@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Xilinx/Project/MyCPU/clk_test_isim_beh.exe" -prj "E:/Xilinx/Project/MyCPU/clk_test_beh.prj" "work.clk_test" 
